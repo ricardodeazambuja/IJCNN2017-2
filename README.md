@@ -32,7 +32,7 @@ OBS:
 - [BEE SNN simulator](https://github.com/ricardodeazambuja/BEE)
 
 Preprint version:  
-- [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017-2/raw/master/IJCNN2017-2_draft.pdf)
+- [IJCNN2017-2_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017-2/raw/master/IJCNN2017-2_draft.pdf)
 
 
 
