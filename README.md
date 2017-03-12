@@ -1,6 +1,6 @@
 # IJCNN2017-2
 
-# Experiments used for the paper submitted to [IJCNN2017](http://www.ijcnn.org/)
+# Experiments used for the paper accepted for [IJCNN2017](http://www.ijcnn.org/)
 # Neurorobotic Simulations on the Degradation of Multiple Column Liquid State Machines
 
 ## Abstract:
@@ -32,9 +32,7 @@ OBS:
 - [BEE SNN simulator](https://github.com/ricardodeazambuja/BEE)
 
 Preprint version:  
-???
-
-
+- [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017-2/raw/master/IJCNN2017-2_draft.pdf)
 
 
 
