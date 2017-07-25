@@ -1,6 +1,6 @@
 # IJCNN2017-2
 
-# Experiments used for the paper accepted for [IJCNN2017](http://www.ijcnn.org/)
+# Experiments used for the paper ~~accepted for~~ presented at [IJCNN2017](http://www.ijcnn.org/)
 # Neurorobotic Simulations on the Degradation of Multiple Column Liquid State Machines
 
 ## Abstract:
@@ -25,18 +25,26 @@ Testing was done through a series of notebooks
 
 4) [DTW cost](https://github.com/ricardodeazambuja/IJCNN2017-2/blob/master/DWT-TESTER.ipynb)
 
-OBS:  
-- [Dynamic Time Warping example](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/DTW_Visualisation_Example.ipynb)
+## OBS:  
+- [BEE SNN simulator](https://github.com/ricardodeazambuja/BEE)
+- [Dynamic Time Warping Library](https://github.com/ricardodeazambuja/DTW)
 - [Graceful Degradation under Noise on Brain Inspired Robot Controllers](https://github.com/ricardodeazambuja/ICONIP2016)
 - [Diverse, Noisy and Parallel: a New Spiking Neural Network Approach for Humanoid Robot Control](https://github.com/ricardodeazambuja/IJCNN2016)
-- [BEE SNN simulator](https://github.com/ricardodeazambuja/BEE)
+- [Short-Term Plasticity in a Liquid State Machine Biomimetic Robot Arm Controller](https://github.com/ricardodeazambuja/IJCNN2017)
 
-Preprint version:  
+## Preprint version:  
 - [IJCNN2017-2_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017-2/raw/master/IJCNN2017-2_draft.pdf)
 
-Related works:  
-- https://github.com/ricardodeazambuja/ICONIP2016  
-- https://github.com/ricardodeazambuja/IJCNN2016  
-- https://github.com/ricardodeazambuja/IJCNN2017  
-- https://github.com/ricardodeazambuja/I2MTC2017-LSMFusion
+## Bibtex citation:
+https://github.com/ricardodeazambuja/IJCNN2017-2/blob/master/de_azambuja_decimation_2017.bib
+
+## Final IEEE Xplore version:
+http://ieeexplore.ieee.org/document/7965834/
+
+## Related works:  
+- [Graceful Degradation under Noise on Brain Inspired Robot Controllers](https://github.com/ricardodeazambuja/ICONIP2016)
+- [Diverse, Noisy and Parallel: a New Spiking Neural Network Approach for Humanoid Robot Control](https://github.com/ricardodeazambuja/IJCNN2016)
+- [Short-Term Plasticity in a Liquid State Machine Biomimetic Robot Arm Controller](https://github.com/ricardodeazambuja/IJCNN2017)
+- [Sensor Fusion Approach Using Liquid StateMachines for Positioning Control](https://github.com/ricardodeazambuja/I2MTC2017-LSMFusion)
+
 
